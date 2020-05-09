@@ -9,7 +9,6 @@ for (i = 65; i <= 90; i++) {
 for (i = 97; i <= 122; i++) {
   alfabet.push(String.fromCharCode(i));
 }
-
 //cyfry
 for (i = 48; i <= 57; i++) {
     alfabet.push(String.fromCharCode(i));
