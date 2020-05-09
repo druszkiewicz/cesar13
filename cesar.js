@@ -1,4 +1,4 @@
-let alfabet = [];
+const alfabet = [];
 let alfLen = 0;
 let i;
 // wielkie litery
